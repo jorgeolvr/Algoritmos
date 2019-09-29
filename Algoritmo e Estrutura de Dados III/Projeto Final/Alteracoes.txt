@@ -1,0 +1,19 @@
+Usuário:
+
+Compra:
+	-> Impedir que coloque um codigo de usuario que não exista
+	-> Criar novas compras com um padrão melhor para testes
+
+
+
+
+
+
+
+Futuras alterações:
+	-> Alterar o padrão do arquivo para arquivo indexado
+
+
+Futuras tarefas:
+	-> Criar novas entidades
+	-> Criar um relacionamento N:N
